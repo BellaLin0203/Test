@@ -1,6 +1,6 @@
-#include <stdio.h>
+#include "Test.h"
 
 int 
 main () {
-	printf ("Test\n");
+	printf ("%s\n", TEST);
 }
